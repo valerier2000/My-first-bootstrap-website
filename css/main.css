@@ -17,6 +17,12 @@ body {
   margin: 0 auto;
 }
 
+.title-underline-long {
+  width: 40vw;
+  height: 5px;
+  margin: 0 auto;
+}
+
 .height-80 {
   min-height: 80vh;
 }
