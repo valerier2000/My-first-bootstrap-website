@@ -5,3 +5,18 @@ body {
 .height {
   min-height: 100vh;
 }
+
+.about-pic {
+  background: url(../img/girl.jpg);
+  background-size: cover;
+}
+
+.title-underline {
+  width: 200px;
+  height: 5px;
+  margin: 0 auto;
+}
+
+.height-80 {
+  min-height: 80vh;
+}
