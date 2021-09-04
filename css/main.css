@@ -13,13 +13,13 @@ body {
 
 .title-underline {
   width: 200px;
-  height: 5px;
+  height: 10px;
   margin: 0 auto;
 }
 
 .title-underline-long {
   width: 40vw;
-  height: 5px;
+  height: 10px;
   margin: 0 auto;
 }
 
