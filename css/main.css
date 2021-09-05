@@ -9,6 +9,7 @@ body {
 .about-pic {
   background: url(../img/girl.jpg);
   background-size: cover;
+  min-height: 60vh;
 }
 
 .title-underline {
@@ -23,8 +24,8 @@ body {
   margin: 0 auto;
 }
 
-.height-80 {
-  min-height: 80vh;
+.height-60 {
+  min-height: 60vh;
 }
 
 #coding {
